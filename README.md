@@ -6,11 +6,11 @@
 
 AI and machine learning, Big Data, Date Lakehouse, Storage, VMWare ...
 
-Oracle Cloud Applications
+2.Oracle Cloud Applications
 
 Enterprise Resource Planning (ERP), Human capital management (HCM), Customer Experience (CX), NetSuite
 
-Hardware and Software
+3.Hardware and Software
 
 Java, Oracle Database, MySQL, Linux
 
