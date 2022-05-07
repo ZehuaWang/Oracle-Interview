@@ -22,6 +22,7 @@ Quality, Fairness, Compliance, Ethics
 
 # General Interview Question
 
+
 1.Tell me about yourself.
 
 Explain work experience, what I am currently doing, why you are a qualified candidate.
@@ -63,9 +64,23 @@ ideas to sovle them.
 
 2.Why you are looking for a job change
 
+分三个部分: Thanks to previous organization, share your reason for job change, related to your career goals.
+
+
 3.What do you know about this company (Oracle) ?
 
-4.What do you konw about this position ?
+
+4.What do you konw about this position ? 对职位的理解 + 为什么适合这个职位
+
+I understand that for this position of software developer, you are looking for someone with solid knowlege of Java like cocurrency and multithread and full stack 
+
+development skills. I know oracle is turn to a cloud based company, so a solid background of cloud technology is required.  + 为什么你最适合这个岗位 The reason why I 
+
+am a good fit for this position is that I have accumulated abundant experience as a Java full stack developer, and besides, I also worked at a team under azure health
+
+team, so I am familiar with the containter technology like docker and k8s. And I am confident that I can transfer my previous knowledge and start this position 
+
+effectively.
 
 5.What are you passionate about ?
 
