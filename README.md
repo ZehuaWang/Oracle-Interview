@@ -38,7 +38,28 @@ new features on a daily basic. The second position I held is with Ross Video, I 
 
 SE application, design a new communication protocol and debug the Ross switcher device. My current position is with Nuance, I worked with Nuance Digital Engagement 
 
-team which is an on-line customer service platform. My daily job is to communicate with the clients and 
+team which is a cloud native on-line customer service platform. My daily job is to work with the product manager to analyze user requirement, write the design document 
+
+and implement API for the front end team. The main technology stack is container and java.  
+
++ 工作的成就 (save time, save money, improve process)
+
+In my current job, my major accoplishment that I am most proud of is that I drive the authentication and authorization upgrade from session to OAuth2.0. The original 
+
+auth is based on session which is highly depend on the web and not applicable to mobile, also it cause overhead when we add new servers to the cluster. I find this 
+
+issue and did some research find that OAuth2 and JWT token can solve the current issue. So I proposed to my team leader and did a demo to the whole team. After 
+
+serveral discussions, I convinced my team leader to upgrade the auth framework. And then I helped to write the design document and create the JIRA tickets. Now the new 
+
+auth framework is on production and the auth time required decreased 30%, also since the OAuth2 uses JWT token, the overhead of the server is reduced.
+
++ 感受
+
+What I learned is that communication and teamwork is really important, also it is critical to deep dive the source of an issue, then we can have innovation and new 
+
+ideas to sovle them.
+
 
 2.Why you are looking for a job change
 
