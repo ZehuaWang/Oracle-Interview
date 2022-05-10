@@ -1,5 +1,35 @@
 ## First Round Phone Screen
 
+# Amazon LP
+
+Customer obsession 顾客至上
+
+Ownership 主人公精神
+
+Invent and Simplify 发明并且简化
+
+Are right, a lot 做正确的决定
+
+Learn and be curious 保持好奇心
+
+Hire and develop the best 选贤育能
+
+Insight on the highest standard 保持最高的标准
+
+Think big 远见卓识
+
+Bias for action 崇尚行动
+
+frugal 保持节俭
+
+Earn trust 保持信任
+
+Dive Deep 刨根问底
+
+Have backbone disagree and commit 敢于谏言 服从大局
+
+deliver results 达成业绩
+
 # Oracle products
 
 1.Oracle Cloud Infrastructure
