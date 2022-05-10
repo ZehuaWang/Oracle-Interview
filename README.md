@@ -66,9 +66,21 @@ ideas to sovle them.
 
 分三个部分: Thanks to previous organization, share your reason for job change, related to your career goals.
 
+I really apperciate the chance being able to work at Nuance, from where I learned not only how to write industial level of code, but most importantly, I learned 
+
+practical experience on cloud native application. The reason why I am looking for a new positon is that I want to take more responsiblity and achieve my career goal.
+
+Oracle is the leader in the Java world, and it is now turing into a cloud based company. With privious experience, I believe I can become a profound developer.
 
 3.What do you know about this company (Oracle) ?
 
+Oracle is created by Larry Ellison on 1977. Based on the paper of relational database, Oracle company created the first commercial database system oracle. And then it 
+
+also developed different kinds of midrange computer for governments and other companies. In the late 90s, Oracle start to develop the internet technologies. Until now, 
+
+there are three product line： Oracle Cloud infrastructure, Oracle cloud Applicaitons and Software / Hardware. By working with Azure, Oracle cloud provides a high 
+
+performance cloud service with lower price. The reason why I want to join Oracle is that ...  
 
 4.What do you konw about this position ? 对职位的理解 + 为什么适合这个职位
 
