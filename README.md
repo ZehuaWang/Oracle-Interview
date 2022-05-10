@@ -126,3 +126,4 @@ effectively.
 
 5.What are you passionate about ?
 
+Deep dive 的例子 + 团队合作 + 成就感
